@@ -48,4 +48,5 @@ foreach ($lorem as $key => $value) {
     $stmt->execute();    
 }
 
+header("Location: index.php");
 die("All data was saved. You can close this tab now");

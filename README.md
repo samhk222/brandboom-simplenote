@@ -1,6 +1,9 @@
 Hi there, this repo is regarding the job offer @ https://stackoverflow.com/jobs/204945/lead-full-stack-developer-brandboom
 
-# How to install and run the application
+# How to test this appliction online
+go to http://samuca.com/brandboom-simplenote/index.php#
+
+# How to install and run the application locally
 
 ## 1. Clone this repo into your www directory
 ```
